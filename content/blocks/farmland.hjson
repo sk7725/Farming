@@ -1,0 +1,16 @@
+size: 3
+breakable: true
+update: true
+category: production
+requirements: [
+  copper/1
+]
+sync: true
+health: 40
+configurable: false
+solid: false
+hasShadow: false
+alwaysReplace: true
+itemCapacity: 1
+hasItems: true
+hasLiquids: true
